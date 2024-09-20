@@ -1,0 +1,7 @@
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\bin\Debug\lab0.exe.config
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\bin\Debug\lab0.exe
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\bin\Debug\lab0.pdb
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\obj\Debug\lab0.csproj.AssemblyReference.cache
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\obj\Debug\lab0.csproj.CoreCompileInputs.cache
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\obj\Debug\lab0.exe
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab0\obj\Debug\lab0.pdb
